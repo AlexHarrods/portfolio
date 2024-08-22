@@ -16,7 +16,5 @@ description:
   My 15+ years of experience in creating and adapting educational courses for a large audience has equipped me with strong analytical skills, which I am eager to apply to my new career as a data analyst.
   <br><br>
   </p>
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+theme: jekyll-theme-minimal
