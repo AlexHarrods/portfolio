@@ -1,7 +1,22 @@
-title: Alex Harrods
+title: <p align="center"> Alex Harrods </p>
+
 logo: /assets/pics/IMG_20200911_122230_1-photoaidcom-cropped.jpg
-#description: text below image
-show_downloads: true
+
+description:
+  <p align="center">
+  <a href="pdf/Alex Harrods Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/alex-harrods/">LinkedIn</a> |
+  <a href="https://github.com/AlexHarrods">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  After completing my retraining as a data analyst, I am applying my skills in educational program development and content management to tackle analytical challenges.
+
+  <br><br>
+  My 15+ years of experience in creating and adapting educational courses for a large audience has equipped me with strong analytical skills, which I am eager to apply to my new career as a data analyst.
+  <br><br>
+  </p>
+  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
