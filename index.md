@@ -33,6 +33,15 @@
 <center><img src="images/Subway2.png"></center>
 <br>
 
-
-
+### Iowa Liquor Sales: Visualization
+[![View on Tableau](https://img.shields.io/badge/Tableau-view_on_Tableau-blue?logo=Tableau
+)](https://public.tableau.com/app/profile/alex.harrods/viz/IowaLiquorSalesOverview2021/D1)
+<div style="text-align: justify">In order to understand ridership patterns across New York subway systems, I gathered data on subway rides and ridership from various time frames, by different boroughs and payment methods. Then, I created Tableau dashboards to visualize ridership behavior and trends, providing insights for transit planning and dynamics..</div>
+<br>
+<center><img src="images/Screenshot 2024-09-20 111943.png"></center>
+<br>
+<center><img src="images/Screenshot 2024-09-20 111836.png"></center>
+<br>
+<center><img src="images/Screenshot 2024-09-20 112033.png"></center>
+<br>
 ---
