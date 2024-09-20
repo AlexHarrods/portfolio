@@ -11,8 +11,8 @@
 <br>
 
 ### Ohio State University Earnings 2023: EDA and Regression Models
-[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alex.harrods/viz/NYCMTASubwayRidership/Dashboard1)
-
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Ohio State University 2023 Earnings - EDA and models.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AlexHarrods/Ohio-State-University-2023-Earnings---EDA-and-Models)
 <div style="text-align: justify">I conducted exploratory data analysis on the Ohio State University 2023 Combined Earnings dataset to explore earnings distribution and position group-based disparities using Pandas, NumPy, Matplotlib, Seaborn, and Plotly. Then, I applied machine learning techniques like the Isolation Forest to detect and analyze outliers. Finally, I trained regression models, including Huber Regression, Random Forest, and Decision Tree, to handle extreme values</div>
 <br>
 <center><img src="images/Screenshot 2024-09-20 131237.png"></center>
@@ -24,9 +24,7 @@
 
 ## Tableau
 ### New York Subway Ridership Visualization
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Ohio State University 2023 Earnings - EDA and models.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AlexHarrods/Ohio-State-University-2023-Earnings---EDA-and-Models)
-
+[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alex.harrods/viz/NYCMTASubwayRidership/Dashboard1)
 <div style="text-align: justify">In order to understand ridership patterns across New York subway systems, I gathered data on subway rides and ridership from various time frames, by different boroughs and payment methods. Then, I created Tableau dashboards to visualize ridership behavior and trends, providing insights for transit planning and dynamics..</div>
 <br>
 <center><img src="images/Screenshot 2024-09-20 111059.png"></center>
