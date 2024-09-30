@@ -18,10 +18,6 @@
 <center><img src="images/Screenshot 2024-09-20 131237.png"></center>
 <br>
 
-
-
-
-
 ## Tableau
 ### New York Subway Ridership Visualization
 [![View on Tableau](https://img.shields.io/badge/Tableau-view_on_Tableau-blue?logo=Tableau
@@ -44,4 +40,15 @@
 <br>
 <center><img src="images/Screenshot 2024-09-20 112033.png"></center>
 <br>
+
+## Designed and developed by me
+<div style="text-align: justify">Besides my interest in data analytics, I have a great passion for typography and graphic design. Below are some of the workbooks I created, which are widely used by English learners in Siberia. </div>
+<br>
+<center><img src="images/Screenshot 2024-09-20 111943.png">width="300"</center>
+<br>
+<center><img src="images/Screenshot 2024-09-20 111836.png"></center>
+<br>
+<center><img src="images/Screenshot 2024-09-20 112033.png"></center>
+<br>
+
 ---
