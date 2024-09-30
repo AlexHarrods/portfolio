@@ -48,8 +48,4 @@
 <br>
 <center><img src="images/Workbooks (4).jpg"></center>
 <br>
-<center><img src="images/Workbooks (3).jpg" width="500"/></center>
-<br>
-<center><img src="images/Workbooks (4).jpg" width="500"/></center>
-<br>
 ---
