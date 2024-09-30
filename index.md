@@ -44,11 +44,12 @@
 ## Designed and developed by me
 <div style="text-align: justify">Besides my interest in data analytics, I have a great passion for typography and graphic design. Below are some of the workbooks I created, which are widely used by English learners in Siberia. </div>
 <br>
-<center><img src="images/Screenshot 2024-09-20 111943.png" width="300"/></center>
+<center><img src="images/Workbooks (3).jpg"></center>
 <br>
-<center><img src="images/Screenshot 2024-09-20 111836.png"></center>
+<center><img src="images/Workbooks (4).jpg"></center>
 <br>
-<center><img src="images/Screenshot 2024-09-20 112033.png"></center>
+<center><img src="images/Workbooks (3).jpg" width="500"/></center>
 <br>
-
+<center><img src="images/Workbooks (4).jpg" width="500"/></center>
+<br>
 ---
