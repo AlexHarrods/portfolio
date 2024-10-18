@@ -5,7 +5,9 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NYC's Worst-Performing Subway Lines in 2023 Through Comprehensive EDA.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AlexHarrods/Worst-Performing-NYC-Subway-Lines-in-2023-Through-Comprehensive-EDA)
 
-<div style="text-align: left">This project identified 5 worst-performing subway lines in New York City in 2023 through a comprehensive Exploratory Data Analysis using datasets from the Metropolitan Transportation Authority (MTA). The analysis was based on data on train delays, major incidents, and customer journey metrics, and provided valuable insights into the performance of various subway lines.n\
+<div style="text-align: left">This project identified 5 worst-performing subway lines in New York City in 2023 through a comprehensive Exploratory Data Analysis using datasets from the Metropolitan Transportation Authority (MTA). The analysis was based on data on train delays, major incidents, and customer journey metrics, and provided valuable insights into the performance of various subway lines.</div>
+<br>
+<div style="text-align: left">This project identified 5 worst-performing subway lines in New York City in 2023 through a comprehensive Exploratory Data Analysis using datasets from the Metropolitan Transportation Authority (MTA). The analysis was based on data on train delays, major incidents, and customer journey metrics, and provided valuable insights into the performance of various subway lines.
 The findings also revealed patterns of delays and incidents, highlighted the impact of major incidents on specific lines, and assessed passenger journey completion times. The project provided actionable insights that have the potential to significantly improve the efficiency of NYC's subway system and help stakeholders pinpoint areas in need of intervention.</div>
 <br>
 <center><img src="images/polar_plot.png"></center>
