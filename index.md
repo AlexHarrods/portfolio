@@ -24,7 +24,7 @@ The findings also revealed patterns of delays and incidents, highlighted the imp
 ### Ohio State University Earnings 2023: EDA and Regression Models
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Ohio State University 2023 Earnings - EDA and models.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AlexHarrods/Ohio-State-University-2023-Earnings---EDA-and-Models)
-<div style="text-align: left">I conducted exploratory data analysis on the Ohio State University 2023 Combined Earnings dataset to explore earnings distribution and position group-based disparities using Pandas, NumPy, Matplotlib, Seaborn, and Plotly. Then, I applied machine learning techniques like the Isolation Forest to detect and analyze outliers. Finally, I trained regression models, including Huber Regression, Random Forest, and Decision Tree, to handle extreme values</div>
+<div style="text-align: left">I conducted Exploratory Data Analysis on the Ohio State University 2023 Combined Earnings dataset to explore earnings, distribution and other disparities using Pandas, NumPy, Matplotlib, Seaborn, and Plotly. Then, I applied machine learning techniques like the Isolation Forest to detect and analyze outliers. Finally, I trained regression models, including Huber Regression, Random Forest, and Decision Tree, to handle extreme outliers</div>
 <br>
 <center><img src="images/Screenshot 2024-09-20 131237.png"></center>
 <br>
