@@ -18,7 +18,7 @@
 <div style="text-align: left">Then, I used Pandas and NumPy for data manipulation, alongside Matplotlib and Seaborn to visualize the data through bar plots, count plots, box plots, and heatmaps.</div>
 <div style="text-align: left">Finally, I conducted statistical tests, including the Chi-Square Test and Mann-Whitney Test, revealing significant gender pay disparities, underrepresentation of females in higher pay brackets, and inequalities in overtime distribution.</div>
 <br>
-<center><img src="images/Screenshot 2024-09-20 132424.png"></center>
+<center><img src="images/Overtime and Gender.png"></center>
 <br>
 
 ### Ohio State University Earnings 2023: EDA and Regression Models
